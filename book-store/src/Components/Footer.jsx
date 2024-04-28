@@ -197,7 +197,7 @@ export const Footer = () => {
           color={"rgba(0, 0, 0, 1)"}
           textAlign={"center"}
         >
-          Designed & Developed by Ganesh Kumar
+          Designed & Developed by M.V.R.Abhishek
         </Text>
 
         <Box
